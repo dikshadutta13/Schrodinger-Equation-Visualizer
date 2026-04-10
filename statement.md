@@ -26,5 +26,5 @@ for different quantum numbers (n).
 - Matplotlib
 
 # Applications:
-- Understanding quantum confinement
-- Visualizing abstract quantum concepts
+- Understanding quantum confinement.
+- Visualizing abstract quantum concepts.
